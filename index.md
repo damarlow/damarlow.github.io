@@ -11,7 +11,10 @@ header:
   cta_label: "Read More"
   overlay_color: "#000"
   overlay_filter: "0.5"
+<<<<<<< HEAD
 intro: "21, Computer Science student at University of Birmingham. Aspiring Developer, formerly UBCU Prayer Secretary (2016-17)"
+=======
+>>>>>>> 1cf5164404a4e1c518fc902835c5282e794a558e
 feature_row:
   - image_path: /assets/images/profile.jpg
     alt: "Profile Image"
