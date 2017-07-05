@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Dave Marlow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Developer, former UBCU Prayer Secretary"
   location         : "University of Birmingham, UK"
   email            :
   uri              :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "@damarlow"
+  github           : "damarlow"
   google_plus      :
   keybase          :
   instagram        :
