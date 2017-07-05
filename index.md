@@ -4,8 +4,9 @@ author_profile: true
 header:
   overlay_image: /assets/images/header.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "about-me"
-  cta_label: "Read More"
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
+Welcome! You have found my new web page!
+
+This site is currently under construction, but come back soon for some real content
