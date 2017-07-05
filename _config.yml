@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Dave Marlow"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer, formerly UBCU Prayer Secretary"
+  bio              : "21, Computer Science student at University of Birmingham. Aspiring Developer, formerly UBCU Prayer Secretary (2016-17)"
   location         : "University of Birmingham, UK"
   email            : "dave.marlow@damarlow.me"
   uri              : "http://damarlow.me"
@@ -98,7 +98,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  steam            : "damarlow"
   tumblr           :
   twitter          : "damarlow"
   vine             :
