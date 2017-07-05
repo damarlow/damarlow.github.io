@@ -12,22 +12,22 @@ header:
   cta_label: "Read More"
   overlay_color: "#000"
   overlay_filter: "0.5"
-  feature_row:
-    - image_path: /assets/images/profile.jpg
-      alt: "Profile Image"
-      title: "About Me"
-      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-      url: "#test-link"
-      btn_label: "Read More"
-      btn_class: "btn--inverse"
-  feature_row2:
-    - image_path: /assets/images/astonwebb.jpg
-      alt: "University of Birmingham"
-      title: "University of Birmingham"
-      excerpt: 'I am a final-year MSci student in the School of Computer Science.'
-      url: "cs.bham.ac.uk"
-      btn_label: "Read More"
-      btn_class: "btn--inverse"
+feature_row:
+  - image_path: /assets/images/profile.jpg
+    alt: "Profile Image"
+    title: "About Me"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row2:
+  - image_path: /assets/images/astonwebb.jpg
+    alt: "University of Birmingham"
+    title: "University of Birmingham"
+    excerpt: 'I am a final-year MSci student in the School of Computer Science.'
+    url: "cs.bham.ac.uk"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 {% include feature_row id="intro" type="center" %}
 
