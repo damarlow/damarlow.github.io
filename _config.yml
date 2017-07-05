@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Dave Marlow"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer, former UBCU Prayer Secretary"
   location         : "University of Birmingham, UK"
   email            :
