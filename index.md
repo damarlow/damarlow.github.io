@@ -24,10 +24,11 @@ header:
     - image_path: /assets/images/astonwebb.jpg
       alt: "University of Birmingham"
       title: "University of Birmingham"
-      excerpt: 'I am a final-year MSci student in the School of Computer Science.''
+      excerpt: 'I am a final-year MSci student in the School of Computer Science.'
       url: "cs.bham.ac.uk"
       btn_label: "Read More"
       btn_class: "btn--inverse"
 ---
 {% include feature_row %}
+
 {% include feature_row2 %}
