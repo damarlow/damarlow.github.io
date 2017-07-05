@@ -1,8 +1,5 @@
 ---
 layout: home
-classes:
-  - landing
-  - dark-theme
 author_profile: true
 header:
   overlay_image: /assets/images/header.jpg
