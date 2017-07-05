@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-gb"
 title                    : "Dave Marlow"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Dave Marlow"
 description              : "Developer."
-url                      : "https://damarlow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://damarlow.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "damarlow/damarlow.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Dave Marlow"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer, former UBCU Prayer Secretary"
+  bio              : "Developer, formerly UBCU Prayer Secretary"
   location         : "University of Birmingham, UK"
-  email            :
-  uri              :
+  email            : "dave.marlow@damarlow.me"
+  uri              : "http://damarlow.me"
   bitbucket        :
   codepen          :
   dribbble         :
