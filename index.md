@@ -7,6 +7,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
+Hi There!
+
 Welcome! You have found my new web page!
 
 This site is currently under construction, but come back soon for some real content
+
+Have a great day,
+Dave
