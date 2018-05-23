@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Dave Marlow"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "21, Computer Science student at University of Birmingham. Aspiring Developer, formerly UBCU Prayer Secretary (2016-17)"
-  location         : "University of Birmingham, UK"
+  bio              : "22, MSci student (almost graduate) at the School of Computer Science, University of Birmingham. Software Developer, formerly UBCU Prayer Secretary (2016-17)"
+  location         : "Birmingham, UK"
   email            : "dave.marlow@damarlow.me"
   uri              : "http://damarlow.me"
   bitbucket        :
